@@ -9,7 +9,8 @@ Business rules:
 Configurable parameters:
 1. Threshold
 2. REST API address 
-Both can be configured in app.config under userSettings section. 
+
+Both parameters can be configured in app.config under userSettings section. 
 
 ======================================
 ======================================
