@@ -10,7 +10,7 @@ namespace TestConsole.Types
             {
                 {"message", message },
                 {"lastSensorValue", incomingMessage.Value.ToString("F2")},
-                { "LastSensorTimestamp", incomingMessage.Timestamp.ToString("O") }
+                {"lastSensorTimestamp", incomingMessage.Timestamp.ToString("O") }
             };
         }
 
